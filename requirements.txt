@@ -1,0 +1,11 @@
+# Packages imported by the two notebooks (run in early 2020 with Python 3.6).
+# Versions were not recorded. See README.md for API changes since then.
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+imbalanced-learn
+feature-engine
+eli5
